@@ -1,0 +1,1560 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        316.1636962890625,
+        137.78469848632813,
+        422.6039733886719
+      ],
+      "min": [
+        -373.26776123046875,
+        -103.99559783935547,
+        -422.5182189941406
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 250164,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        1.87109375,
+        0.9988574981689453
+      ],
+      "min": [
+        0.0004558563232421875,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 166776,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        293.75,
+        422.5
+      ],
+      "min": [
+        -373.25,
+        -422.5
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 333552,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        3.46875,
+        2.734375
+      ],
+      "min": [
+        -2.29296875,
+        -1.734375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 53277,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 500328,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        258.8128356933594,
+        -49.64026641845703,
+        65.98373413085938
+      ],
+      "min": [
+        -1.440151572227478,
+        -262.96392822265625,
+        -286.9315185546875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 556680,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 500328,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        1.8916015625,
+        0.9985218048095703
+      ],
+      "min": [
+        0.0018482208251953125,
+        0.01220703125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 537896,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        258.75,
+        286.75
+      ],
+      "min": [
+        3.0517578125e-05,
+        0.999969482421875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 575464,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        2.3046875,
+        0.32470703125
+      ],
+      "min": [
+        -0.94970703125,
+        -1.361328125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 213108,
+      "componentType": 5125,
+      "count": 11409,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 613032,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        316.1636962890625,
+        130.2825469970703,
+        420.8224792480469
+      ],
+      "min": [
+        -322.0236511230469,
+        -195.08876037597656,
+        -420.7367248535156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 620772,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        1.0,
+        0.999989926815033,
+        0.9999439120292664
+      ],
+      "min": [
+        -0.9894342422485352,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 613032,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        0.99072265625,
+        0.9926948547363281
+      ],
+      "min": [
+        0.0025043487548828125,
+        0.0009765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 618192,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        209.625,
+        420.75
+      ],
+      "min": [
+        3.0517578125e-05,
+        -420.75
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 623352,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        3.171875,
+        2.40234375
+      ],
+      "min": [
+        -2.28125,
+        -1.09375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 258744,
+      "componentType": 5125,
+      "count": 1338,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 628512,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        87.82374572753906,
+        -110.81684875488281,
+        62.04638671875
+      ],
+      "min": [
+        48.31936264038086,
+        -195.39547729492188,
+        -30.539323806762695
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 629124,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        0.9996815323829651,
+        -0.02523409016430378,
+        0.22630921006202698
+      ],
+      "min": [
+        0.885923445224762,
+        -0.4638316035270691,
+        -0.22658003866672516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 628512,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        0.91015625,
+        0.9085693359375
+      ],
+      "min": [
+        0.087646484375,
+        0.08740234375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 628920,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        3.0517578125e-05,
+        0.999969482421875
+      ],
+      "min": [
+        3.0517578125e-05,
+        0.999969482421875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 629328,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        0.6435546875,
+        0.18798828125
+      ],
+      "min": [
+        0.043487548828125,
+        -0.359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264096,
+      "componentType": 5125,
+      "count": 144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 629736,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        278.93353271484375,
+        93.50789642333984,
+        391.8410339355469
+      ],
+      "min": [
+        -312.8214111328125,
+        -49.22927474975586,
+        -391.7552795410156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 633984,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        0.9926874041557312,
+        1.0,
+        0.7495959401130676
+      ],
+      "min": [
+        -0.7497535347938538,
+        0.12071304023265839,
+        -0.7496020793914795
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 629736,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1.9873046875,
+        0.999969482421875
+      ],
+      "min": [
+        1.0126953125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 632568,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1632.0,
+        1632.0
+      ],
+      "min": [
+        -1636.0,
+        -1636.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 635400,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        2.984375,
+        2.326171875
+      ],
+      "min": [
+        -2.09375,
+        -1.431640625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264672,
+      "componentType": 5125,
+      "count": 504,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 34,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.6046712398529053,
+        0.0,
+        0.6024905443191528,
+        1.0,
+        1.0,
+        0.0,
+        1.0000001192092896,
+        1.0,
+        1.0,
+        0.0,
+        247.3209686279297,
+        328.456298828125,
+        205.18865966796875,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.035753700882196426,
+        -0.020923860371112823,
+        0.0,
+        -0.3141414523124695,
+        -0.0940127968788147,
+        0.0,
+        0.0,
+        -0.06318268179893494,
+        -1.0,
+        -0.02906947396695614,
+        0.0,
+        -323.18310546875,
+        -328.5420837402344,
+        -102.33944702148438,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 20847,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 20847,
+      "max": [
+        1.0,
+        0.3490196168422699,
+        0.21568627655506134,
+        0.0
+      ],
+      "min": [
+        0.43529412150382996,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 166776,
+      "componentType": 5123,
+      "count": 4696,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 333552,
+      "componentType": 5126,
+      "count": 4696,
+      "max": [
+        1.0,
+        0.46666669845581055,
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.5333333611488342,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 204344,
+      "componentType": 5123,
+      "count": 645,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 408688,
+      "componentType": 5126,
+      "count": 645,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 209504,
+      "componentType": 5123,
+      "count": 51,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 419008,
+      "componentType": 5126,
+      "count": 51,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 209912,
+      "componentType": 5123,
+      "count": 354,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 419824,
+      "componentType": 5126,
+      "count": 354,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3D only (https://sketchfab.com/ateamodels3d)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/airborne-drone-576294d4088c49ceb25a84f92dd9fe9b",
+      "title": "Airborne Drone"
+    },
+    "generator": "Sketchfab-11.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 212744,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 266688,
+      "byteOffset": 212744,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 638232,
+      "byteOffset": 479432,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 638232,
+      "byteOffset": 1117664,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 425488,
+      "byteOffset": 1755896,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2176,
+      "byteOffset": 2181384,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2183560,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/VEHICLE_Airborne_Drone_INST_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "VEHICLE_Airborne_Drone_INST",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "VEHICLE_Airborne_Drone_INST_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "VEHICLE_Airborne_Drone_Lights_INST",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.588,
+          0.588,
+          0.588,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "VEHICLE_Airborne_Drone_Glass_INST",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "CV_Red_Hood_Helicopter_Chinook_blades_Small",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.588,
+          0.588,
+          0.588,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8929713596497552
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Airborne_Drone_VEHICLE_Airborne_Drone_INST_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 31,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4,
+            "WEIGHTS_0": 32
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Airborne_Drone_VEHICLE_Airborne_Drone_INST_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 33,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "TEXCOORD_2": 10,
+            "WEIGHTS_0": 34
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Airborne_Drone_VEHICLE_Airborne_Drone_Lights_INST_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 35,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "TEXCOORD_2": 16,
+            "WEIGHTS_0": 36
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Airborne_Drone_VEHICLE_Airborne_Drone_Glass_INST_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 37,
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TEXCOORD_0": 20,
+            "TEXCOORD_1": 21,
+            "TEXCOORD_2": 22,
+            "WEIGHTS_0": 38
+          },
+          "indices": 23,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Airborne_Drone_CV_Red_Hood_Helicopter_Chinook_blades_Small_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 39,
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26,
+            "TEXCOORD_1": 27,
+            "TEXCOORD_2": 28,
+            "WEIGHTS_0": 40
+          },
+          "indices": 29,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02539999969303608,
+        0.0,
+        0.0,
+        -0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Airborne_Drone.FBX"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        5
+      ],
+      "name": "Object_3"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "matrix": [
+        0.9999999999999999,
+        -2.465190328815662e-32,
+        7.49879947945278e-33,
+        0.0,
+        7.498799479452781e-33,
+        6.123233995736765e-17,
+        -0.9999999999999999,
+        0.0,
+        2.4651903288156624e-32,
+        1.0,
+        6.123233995736766e-17,
+        0.0,
+        0.0,
+        0.0,
+        2.710505431213761e-20,
+        1.0
+      ],
+      "name": "Object_5"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_6",
+      "skin": 0
+    },
+    {
+      "mesh": 1,
+      "name": "Object_7",
+      "skin": 0
+    },
+    {
+      "mesh": 2,
+      "name": "Object_8",
+      "skin": 0
+    },
+    {
+      "mesh": 3,
+      "name": "Object_9",
+      "skin": 0
+    },
+    {
+      "mesh": 4,
+      "name": "Object_10",
+      "skin": 0
+    },
+    {
+      "children": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        30,
+        35,
+        37,
+        38,
+        40
+      ],
+      "name": "Chassis_01",
+      "rotation": [
+        -0.7071068286895752,
+        -0.0,
+        0.0,
+        0.7071068286895752
+      ]
+    },
+    {
+      "name": "Airbrone_drone_low_Point_02",
+      "rotation": [
+        -5.842122820489065e-24,
+        3.0616171314629196e-17,
+        1.0,
+        -7.549790126404332e-08
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_low1_Point_03",
+      "rotation": [
+        2.3114567211757385e-24,
+        3.0616171314629196e-17,
+        1.0,
+        -7.549790126404332e-08
+      ],
+      "translation": [
+        247.3209686279297,
+        -0.00019916679593734443,
+        -56.963478088378906
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_break_compartment_02_Point_04",
+      "rotation": [
+        2.3114567211757385e-24,
+        3.0616171314629196e-17,
+        1.0,
+        -7.549790126404332e-08
+      ],
+      "translation": [
+        174.23336791992188,
+        0.03703268617391586,
+        37.01471710205078
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_BODY_Point_05",
+      "rotation": [
+        2.3114567211757385e-24,
+        3.0616171314629196e-17,
+        1.0,
+        -7.549790126404332e-08
+      ],
+      "translation": [
+        -4.30859375,
+        -0.04296940565109253,
+        16.89495086669922
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_BODY_02_Point_06",
+      "translation": [
+        46.418697357177734,
+        0.6812242269515991,
+        -120.90339660644531
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_R_wings_Point_07",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        206.66448974609375,
+        -94.76655578613281,
+        -15.252130508422852
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_R_fan_Point_08",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        205.4413299560547,
+        -159.6056365966797,
+        -30.86701774597168
+      ]
+    },
+    {
+      "name": "mesh_airbrone_drone_R_door_Point_09",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        -52.32422637939453,
+        -54.35680389404297,
+        -30.135150909423828
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_L_wing_Point_010",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        206.66448974609375,
+        94.68067932128906,
+        -15.252130508422852
+      ]
+    },
+    {
+      "name": "mesh_airborne_drone_L_fan_Point_011",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        205.44126892089844,
+        159.51976013183594,
+        -30.86701774597168
+      ]
+    },
+    {
+      "name": "mesh_airbrone_drone_L_door_Point_012",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        -52.324241638183594,
+        54.27085876464844,
+        -30.135150909423828
+      ]
+    },
+    {
+      "children": [
+        24
+      ],
+      "name": "mesh_airborne_Drone_F_R_FAN_02_Point_013",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        215.63363647460938,
+        -328.5421142578125,
+        -41.25482177734375
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_F_R_FAN_01_Point_014",
+      "rotation": [
+        2.465190328815662e-32,
+        -9.293002833540061e-34,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "name": "Mesh_Rear_Left_Blade_Housing_Point_015",
+      "rotation": [
+        0.3046407997608185,
+        2.2999726567718426e-08,
+        0.9524673223495483,
+        -7.190926964995015e-08
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -247.49374389648438,
+        -19.65838623046875,
+        37.458518981933594
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_R_FAN_04_Point_016",
+      "rotation": [
+        -0.0072504570707678795,
+        0.02746651880443096,
+        0.00920965988188982,
+        0.9995540976524353
+      ],
+      "scale": [
+        0.9999996423721313,
+        1.0,
+        0.9999997019767761
+      ],
+      "translation": [
+        -93.78074645996094,
+        100.03466033935547,
+        -22.381935119628906
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_R_FAN_01_Point_017",
+      "rotation": [
+        1.808049532314726e-08,
+        -1.4901169720360485e-07,
+        -9.70825908552797e-08,
+        1.0
+      ],
+      "scale": [
+        0.9999994039535522,
+        1.0,
+        0.9999996423721313
+      ],
+      "translation": [
+        -1.52587890625e-05,
+        98.88385009765625,
+        -0.16779327392578125
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_R_FAN_03_Point_018",
+      "rotation": [
+        -0.01641933247447014,
+        -0.004282775335013866,
+        0.012217463925480843,
+        0.9997813701629639
+      ],
+      "scale": [
+        0.9999995231628418,
+        0.9999999403953552,
+        0.9999996423721313
+      ],
+      "translation": [
+        3.0754547119140625,
+        189.080810546875,
+        -20.88886260986328
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_R_FAN_02_Point_019",
+      "rotation": [
+        -0.016268711537122726,
+        -0.005741974338889122,
+        0.05794448032975197,
+        0.9981707334518433
+      ],
+      "scale": [
+        0.999999463558197,
+        1.0000001192092896,
+        0.9999995827674866
+      ],
+      "translation": [
+        89.4854736328125,
+        99.81239318847656,
+        -24.46501922607422
+      ]
+    },
+    {
+      "children": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "name": "Mesh_Rear_Right_Blade_Housing_Point_020",
+      "rotation": [
+        0.30752018094062805,
+        2.3217122446794747e-08,
+        0.951541543006897,
+        -7.183938066646078e-08
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -247.4048309326172,
+        19.630746841430664,
+        38.71044921875
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_L_FAN_04_Point_021",
+      "rotation": [
+        6.881707668071613e-05,
+        0.024447837844491005,
+        0.00845257192850113,
+        0.999665379524231
+      ],
+      "scale": [
+        1.000000238418579,
+        1.000000238418579,
+        1.0000005960464478
+      ],
+      "translation": [
+        -94.57511901855469,
+        -100.13739776611328,
+        -22.88135528564453
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_L_FAN_01_Point_022",
+      "rotation": [
+        -0.00012053994578309357,
+        0.003488819347694516,
+        0.034527938812971115,
+        0.9993976354598999
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999998211860657,
+        1.000000238418579
+      ],
+      "translation": [
+        -0.6614532470703125,
+        -99.00891876220703,
+        -1.2349777221679688
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_L_FAN_02_Point_023",
+      "rotation": [
+        0.014139020815491676,
+        0.012750716879963875,
+        -0.03179352730512619,
+        0.9993131160736084
+      ],
+      "scale": [
+        1.0000003576278687,
+        1.0,
+        1.0000004768371582
+      ],
+      "translation": [
+        88.67547607421875,
+        -99.93746185302734,
+        -26.073020935058594
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_R_L_FAN_005_Point_024",
+      "rotation": [
+        -0.020507290959358215,
+        -0.011838987469673157,
+        0.027183417230844498,
+        0.9993500709533691
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.000000238418579
+      ],
+      "translation": [
+        2.2885589599609375,
+        -189.2060089111328,
+        -21.974388122558594
+      ]
+    },
+    {
+      "children": [
+        36
+      ],
+      "name": "mesh_airborne_Drone_F_L_FAN_02_Point_025",
+      "rotation": [
+        -1.3382753100062164e-24,
+        3.0616171314629196e-17,
+        1.0,
+        4.371138828673793e-08
+      ],
+      "translation": [
+        215.63356018066406,
+        328.4562683105469,
+        -41.25482177734375
+      ]
+    },
+    {
+      "name": "mesh_airborne_Drone_F_L_FAN_01_Point_026",
+      "rotation": [
+        2.465190328815662e-32,
+        -9.293002833540061e-34,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "bone_panel_03_027",
+      "rotation": [
+        0.07600399106740952,
+        0.1500716507434845,
+        -0.13993950188159943,
+        0.9757657647132874
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        214.9783935546875,
+        -37.330936431884766,
+        39.05727005004883
+      ]
+    },
+    {
+      "children": [
+        39
+      ],
+      "name": "bone_panel_01_028",
+      "rotation": [
+        0.05149924382567406,
+        -0.0038457836490124464,
+        -0.1291971057653427,
+        0.9902732968330383
+      ],
+      "translation": [
+        138.2549285888672,
+        -25.279870986938477,
+        53.99709701538086
+      ]
+    },
+    {
+      "name": "bone_panel_02_029",
+      "rotation": [
+        0.009088674560189247,
+        0.09901382029056549,
+        0.0175869632512331,
+        0.9948891401290894
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        38.666656494140625,
+        3.2390899658203125,
+        -6.683269500732422
+      ]
+    },
+    {
+      "children": [
+        41,
+        42
+      ],
+      "name": "turret_rotation_left_right_00",
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        46.418697357177734,
+        0.6812242269515991,
+        -151.66629028320313
+      ]
+    },
+    {
+      "name": "bone_gun_ammo_02_030",
+      "rotation": [
+        -2.164890316292761e-17,
+        -2.164890647165006e-17,
+        -0.7071068286895752,
+        0.7071067094802856
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -10.172630310058594,
+        31.912525177001953,
+        -53.522369384765625
+      ]
+    },
+    {
+      "children": [
+        43
+      ],
+      "name": "turret_rotation_up_down_031",
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -15.8858642578125,
+        -36.02928161621094,
+        -29.842315673828125
+      ]
+    },
+    {
+      "name": "Mesh_Gun_Barrel_032",
+      "translation": [
+        94.77421569824219,
+        41.4991340637207,
+        -1.5166015625
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 30,
+      "joints": [
+        4,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "skeleton": 4
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
